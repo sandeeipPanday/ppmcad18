@@ -1,3 +1,6 @@
-print {'githubfeature1']
-print {'githubfeature2']
-print {'githubfeature3']
+print({'githubfeature1'})
+print({'githubfeature2'})
+print({'githubfeature3'})
+print({'githublocalfeature1'})
+print({'githublocalfeature2'})
+print({'githublocalfeature3'})  
